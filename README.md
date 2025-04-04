@@ -3,7 +3,6 @@ Build a Spring Boot REST API to manage Categories and their associated Products 
 
 Functional Requirements:
   Entity Relationship:
-
     -Establish a One-to-Many relationship between Category and Product:
         -One Category can have multiple Products.
         -Each Product belongs to one Category.
